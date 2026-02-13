@@ -109,6 +109,10 @@ A collection of awesome references regarding Software Architecture.
 
 - [Diagrams](https://diagrams.mingrammer.com/) - Diagrams lets you draw the cloud system architecture in Python code.
 
+- Edwin Castañeda: [Enterprise Orbit Diagram](https://github.com/edwincastaneda/enterprise-orbit-diagram) - A strategic visualization model designed for early discovery, low-documentation environments, and modernization conversations.
+
+
+
 ### Architectural Katas
 
 - [Architectural Katas](http://fundamentalsofsoftwarearchitecture.com/katas/) - Exercise being a Software Architect.
